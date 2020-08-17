@@ -26,7 +26,6 @@ Pillow==7.2.0
 pipenv==2020.8.13
 pipwin==0.5.0
 psycopg2==2.8.5
-PyAudio @ file:///C:/Users/TATHAGAT%20DALAI/pipwin/PyAudio-0.2.11-cp38-cp38-win_amd64.whl
 pycryptodome==3.9.8
 pyjsparser==2.7.1
 pylint==2.5.3
